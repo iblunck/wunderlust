@@ -500,10 +500,6 @@ footer {
     padding-bottom: 40px;
     text-align: center;
     font-size: 16px;
-    /* display: grid;
-    grid-template-rows: 1fr 1fr;
-    gap: 2px;
-    align-items: start; */
 }
 footer p {
     padding-bottom: 20px;
@@ -528,7 +524,6 @@ footer a {
         list-style-type: none;
         left: 0%;
         margin-left: 3.2em;
-        /* margin-left: 11.1%; */
         background-color: transparent;
         text-align: center;
         height: 60px;
@@ -557,8 +552,6 @@ footer a {
         width: 65%;
         margin-left: 28%;
     }
-    
-    
     #logo img{
         max-width: 245px;
         margin-top: 40px;
@@ -597,10 +590,10 @@ footer a {
         margin-top: -30px;
     }
     #plan h3 {
-    margin-top: 0px;
-    text-align: center;
-    padding: 30px 0px;
-}
+        margin-top: 0px;
+        text-align: center;
+        padding: 30px 0px;
+    }
     #plan h4 {
         margin-top: 0px;
         font-size: 28px;
@@ -610,8 +603,6 @@ footer a {
         background-color: var(--yellow);
         padding-bottom: 0px;
         margin-top: 0px;
-        
-        
     }
     #plan section {
         display: inline-block;
@@ -626,7 +617,6 @@ footer a {
         margin-bottom: 30px;
         border: solid white;
         border-radius: 15px;
-    
     }
     #plan img {
         transform: scale(.6);
@@ -720,12 +710,9 @@ footer a {
     }
     #ruler h4 {
         margin-top: -30px;
-        
     }
     #about #size {
         transform: scale(.5);
-        
-        
     }
     #about #elevation {
         transform: scale(.6);
@@ -733,8 +720,7 @@ footer a {
         margin-left: 0px;
     }
     #mountain h4, #mountain p{
-        margin-left: 0px;
-        
+        margin-left: 0px;  
     }
     #mountain {
         margin-top: 15px;
@@ -864,10 +850,6 @@ footer a {
         grid-gap: 15px;
         margin-left: -100px;
         margin-top: -220px;
-    }
-    #img-grid #waves {
-    }
-    #img-grid #beach {
     }
     #img-grid #cove {
         margin-top: -20px;
